@@ -7,3 +7,4 @@ for i in range(77):
 my_frozen = frozenset(res)
 print(res)
 print(my_frozen)
+
