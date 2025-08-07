@@ -6,7 +6,7 @@
 ---
 
 
-<h5 align="center"><strong>https://stepik.org/course/575/syllabus</strong></h5>
+<h3 align="center"><strong>https://stepik.org/course/575/syllabus</strong></h3>
 
 
 ---
